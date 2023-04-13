@@ -23,3 +23,5 @@ The predefined categories and books can be customized according to the library's
 Usage
 The 'library.db' database is used with the library management application 'library_management_app.py'. The library management application script 
 connects to the database in executing its functionalities.
+
+This program is for educational purposes only. 
